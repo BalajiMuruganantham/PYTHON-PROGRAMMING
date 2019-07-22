@@ -1,3 +1,3 @@
-a=input()
-b=a[::-1]
-print(b)
+akil=input()
+bal=akil[::-1]
+print(bal)
